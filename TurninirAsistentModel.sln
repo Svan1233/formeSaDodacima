@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurninirAsistentModel", "TurninirAsistentModel\TurninirAsistentModel.csproj", "{20705707-6CA0-4F3D-B0DE-40AC874FCAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsistentGUI", "AsistentGUI\AsistentGUI.csproj", "{52745E14-AA35-4E70-8384-98CDE09EDA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20705707-6CA0-4F3D-B0DE-40AC874FCAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20705707-6CA0-4F3D-B0DE-40AC874FCAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20705707-6CA0-4F3D-B0DE-40AC874FCAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20705707-6CA0-4F3D-B0DE-40AC874FCAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52745E14-AA35-4E70-8384-98CDE09EDA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52745E14-AA35-4E70-8384-98CDE09EDA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52745E14-AA35-4E70-8384-98CDE09EDA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52745E14-AA35-4E70-8384-98CDE09EDA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82FEBE28-0A9F-4B1C-BB8C-1EB87900840D}
+	EndGlobalSection
+EndGlobal

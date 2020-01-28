@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\TurninirAsistentModel\TurninirAsistentModel\bin\Debug\TurninirAsistentModel.dll
+C:\Users\3.D\source\repos\TurninirAsistentModel\TurninirAsistentModel\bin\Debug\TurninirAsistentModel.pdb
+C:\Users\3.D\source\repos\TurninirAsistentModel\TurninirAsistentModel\obj\Debug\TurninirAsistentModel.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\TurninirAsistentModel\TurninirAsistentModel\obj\Debug\TurninirAsistentModel.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\TurninirAsistentModel\TurninirAsistentModel\obj\Debug\TurninirAsistentModel.dll
+C:\Users\3.D\source\repos\TurninirAsistentModel\TurninirAsistentModel\obj\Debug\TurninirAsistentModel.pdb
